@@ -1,4 +1,4 @@
-package object.passing;
+package object.passing.java.revision;
 
 public class AdvanceStringOp {
     public static void main(String[] args) {

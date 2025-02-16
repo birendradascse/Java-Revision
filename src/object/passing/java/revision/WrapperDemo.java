@@ -1,4 +1,4 @@
-package object.passing;
+package object.passing.java.revision;
 
 public class WrapperDemo {
     static String doubleValue = "156.5";

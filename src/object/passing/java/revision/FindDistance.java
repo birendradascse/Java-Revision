@@ -1,6 +1,4 @@
-package object.passing;
-
-import java.util.List;
+package object.passing.java.revision;
 
 public class FindDistance {
     public static void main(String[] args) {

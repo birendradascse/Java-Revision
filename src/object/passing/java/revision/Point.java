@@ -1,4 +1,4 @@
-package object.passing;
+package object.passing.java.revision;
 
 public class Point {
     private int x;
